@@ -1,4 +1,24 @@
-# plinky-tycoon-script
-Free script for Plinky Tycoon on ROBLOX<br>
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()<br>
-Made/Tested with XENO (1.2.65) & Rayfield UI LIB
+<h1 align="left">Plinky Tyccon ROBLOX SCRIPT</h1>
+
+###
+
+<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
+
+###
+
+<h2 align="left">Features :</h2>
+
+###
+
+<p align="left">- Give different ball level<br>- Change ball spawn limit<br>- kill script</p>
+
+###
+
+<h2 align="left">Made & Tested with</h2>
+
+###
+
+<p align="left">
+  <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
+  <img src="https://www.xeno.onl/images/xeno.png" height="50" />
+</p>
