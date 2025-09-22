@@ -23,6 +23,11 @@
 ###
 
 <p align="left">
-  <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
-  <img src="https://www.xeno.onl/images/xeno.png" height="50" />
+  <a href="https://sirius.menu/" target="_blank">
+    <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
+  </a>
+  <a href="https://www.xeno.onl/" target="_blank">
+    <img src="https://www.xeno.onl/images/xeno.png" height="50" />
+  </a>
 </p>
+
