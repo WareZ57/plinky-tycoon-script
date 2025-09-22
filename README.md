@@ -1,4 +1,8 @@
-<h1 align="left">Plinky Tyccon ROBLOX SCRIPT</h1>
+<h1 align="center">Plinky Tyccon ROBLOX SCRIPT</h1>
+
+<div align="center">
+  <img height="200" src="https://tr.rbxcdn.com/180DAY-ca9e81adc8ba8e46853fb1eab78cc2b0/768/432/Image/Webp/noFilter"  />
+</div>
 
 ###
 
