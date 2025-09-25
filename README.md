@@ -7,23 +7,23 @@
 
 ###
 
-<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
+<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
 
 ###
 
-<h2 align="left">Features :</h2>
+<h2 align="center">Features :</h2>
 
 ###
 
-<p align="left">- Give different ball level<br>- Change ball spawn limit<br>- kill script</p>
+<p align="center">- Give different ball level<br>- Change ball spawn limit<br>- kill script</p>
 
 ###
 
-<h2 align="left">Made & Tested with</h2>
+<h2 align="center">Made & Tested with</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   <a href="https://sirius.menu/" target="_blank">
     <img src="https://image.noelshack.com/fichiers/2025/39/1/1758549544-t-l-chargement.png" height="50" />
   </a>
