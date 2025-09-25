@@ -6,8 +6,10 @@
 </h1>
 
 ###
-
-<p align="center">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
+<div align="center">
+  <img height="200" src="https://tr.rbxcdn.com/180DAY-c961d582d3dfd1c74fdeece0a6c758fa/768/432/Image/Webp/noFilter"/>
+</div>
+<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
 
 ###
 
