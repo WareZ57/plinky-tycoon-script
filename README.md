@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://www.roblox.com/games/138705998165267/Plinky-Tycoon" 
      style="text-decoration:none; color:inherit;">
-    Plinky Tyccon ROBLOX SCRIPT
+    Plinky Tyccon SCRIPT
   </a>
 </h1>
 
