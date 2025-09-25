@@ -9,7 +9,7 @@
 <div align="center">
   <img height="200" src="https://tr.rbxcdn.com/180DAY-ca9e81adc8ba8e46853fb1eab78cc2b0/768/432/Image/Webp/noFilter"/>
 </div>
-<p align="left">loadstring(game:HttpGet("https://raw.githubusercontent.com/WareZ57/plinky-tycoon-script/refs/heads/main/plinky_tycoon.lua"))()</p>
+<p align="left">loadstring(game:HttpGet("https://github.com/WareZ57/plinky-tycoon-script/blob/main/plinky_tycoon.lua"))()</p>
 
 ###
 
